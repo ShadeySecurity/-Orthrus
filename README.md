@@ -7,11 +7,19 @@ and Python to accomplish the protection of the herd of systems you rely on. Orth
 and one thing well!
 
 Features of this platform:
+
 Version 1.0
+
 [ ] VPN Capabilities
+
 [ ] Web UI
+
 [ ] New Generation Intrusion Protection Systems
+
 [ ] Encrypted credential storage
+
 Version 2.0
+
 [ ] LDAPS login capability
+
 [ ] MFA capability
