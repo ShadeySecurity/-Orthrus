@@ -1,5 +1,5 @@
 # -Orthrus
-Python Security Platform
+Python Border Security Platform
 
 Most of the different open source firewalls all tend to use PHP at their base, and have a slew of configurations before you get a secure box meant to do security. 
 Orthrus is different, it is built with security as the primary, and forces you to open hole into the system as needed. The project utilizes a stripped down ubuntu 16.04 LTS minimal install, web2py,
